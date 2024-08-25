@@ -1,7 +1,7 @@
 ![imgSynth](./assets/DR4BP4M.gif "imgSynth")
 # EZEQUIEL ORSINGHER
 
-Buenas a todos, mi nombre es ezequiel, me gusta la onda synthwave, las motos y las birras artesanales. :beers:  
+Buenas a todos, mi nombre es Ezequiel, me gusta la onda synthwave, las motos y las birras artesanales. :beers:  
   Actualmente estoy trabajando con javascript, interesado en aprender sobre el desarrollo de aplicaciones web.
 
 ## Algunos pasatiempos :sunglasses:
