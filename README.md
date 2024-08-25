@@ -1,3 +1,4 @@
+![imgSynth](./assets/DR4BP4M.gif "imgSynth")
 # EZEQUIEL ORSINGHER
 
 Buenas a todos, mi nombre es ezequiel, me gusta la onda synthwave, las motos y las birras artesanales. :beers:  
